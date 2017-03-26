@@ -6,6 +6,7 @@ The labels with 1 to 3 represent negative, neutral and positive respectively.
 Each wav-file directory comprise about 10 minues long wav files in total.
 Completing a directory would need a 10 minues break for the next 10 minutes labeling task.
 
+The program is completed in python2.7 and wrapped to exe file.
 
 * directory BIIC_label --> dist --> labeldata.exe
 <div style="text-align:center"><img src ="./photos/step1.png" width=280/></div>
